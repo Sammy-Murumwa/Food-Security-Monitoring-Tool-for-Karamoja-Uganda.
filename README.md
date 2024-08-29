@@ -12,11 +12,11 @@ Display visualization of crop yield and productivity of districts or/and sub cou
 
 What is the Distribution of Yield in a Subcounty?
 
-Link
+# Link
 This is the URL to the tool https://public.tableau.com/app/profile/sammy.murumwa/viz/Crop-Performance-Analysis-in-Karamoja/Dashboard2
 
 
-# Technologies Used
+# Technologies Used 
 Various Tableau visualization techniques
 
 # Usage
