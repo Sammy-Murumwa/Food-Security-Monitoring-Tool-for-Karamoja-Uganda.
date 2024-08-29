@@ -10,7 +10,7 @@ What percentage of the total yield production per Subcounty?
 
 Display visualization of crop yield and productivity of districts or/and sub counties using different tools (charts/graphs)
 
-What is the Distribution of Yield in a Subcounty?
+What is the distribution of Yield in a Subcounty?
 
 # Link
 This is the URL to the tool https://public.tableau.com/app/profile/sammy.murumwa/viz/Crop-Performance-Analysis-in-Karamoja/Dashboard2
