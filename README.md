@@ -16,3 +16,5 @@ Various Tableau visualization techniques
 
 Usage
 The visualization of results provided in this study will provide more reliable and reusable information by other NGOs and government agencies in making decisions on resource utilization and an understanding of the overall state of Karamoja region on maize and sorghum productivity. Any other similar data science project can adopt the analysis and visualization.
+Contributor
+Sammy Murumwa
