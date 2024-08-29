@@ -14,7 +14,7 @@ What is the per capita productivity of the Karamoja region?
 
 What is the potential productivity, actual and missed productivity in the region?
 Link
-This is the URL to the tool [https://public.tableau.com/app/profile//viz/KaramojaRegion-VisualizationTool/SummaryTable]
+This is the URL to the tool https://public.tableau.com/app/profile/sammy.murumwa/viz/Crop-Performance-Analysis-in-Karamoja/Dashboard2
 
 
 # Technologies Used
