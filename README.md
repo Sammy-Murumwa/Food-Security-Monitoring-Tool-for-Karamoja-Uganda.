@@ -6,13 +6,12 @@ What is the exact location of Karamoja region in Uganda on Map?
 
 Which districts have dedicated more land to farming of Maize and Sorghum?
 
-What percentage of the total area of each sub county has each crop (Maize and Sorghum) occupied?
+What percentage of the total yield production per Subcounty?
 
 Display visualization of crop yield and productivity of districts or/and sub counties using different tools (charts/graphs)
 
-What is the per capita productivity of the Karamoja region?
+What is the Distribution of Yield in a Subcounty?
 
-What is the potential productivity, actual and missed productivity in the region?
 Link
 This is the URL to the tool https://public.tableau.com/app/profile/sammy.murumwa/viz/Crop-Performance-Analysis-in-Karamoja/Dashboard2
 
